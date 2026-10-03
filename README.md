@@ -77,3 +77,17 @@ Bu çalışma; çoklu araç sistemlerinde haberleşme, görev yönetimi, kullan�
 ## Depo Kapsamı
 
 Bu depo, projenin teknik yaklaşımını ve bireysel katkılarımı açıklayan bir portfolyo sunumudur. Yarışmada kullanılan sistemin eksiksiz kaynak kod paketini veya doğrudan çalıştırılabilir bir uçuş yazılımını içermez.
+
+## Proje Görselleri
+
+### Yer Kontrol İstasyonu Arayüzü
+
+İHA bağlantıları olmadan hazırlık ve izleme ekranı. Harita, araç durum panelleri, görev kontrolleri ve olay kayıtları görüntülenmektedir.
+
+![Yer kontrol istasyonu arayüzü](yki-arayuz.png)
+
+### Saha Çalışması — Kamera Görüntüsü
+
+Saha çalışması sırasında yer kontrol istasyonunda kamera görüntüsünün izlenmesi.
+
+![Saha ortamında kamera görüntüsü](yki-saha-kamera.jpeg)
